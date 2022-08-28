@@ -1,0 +1,29 @@
+[
+{
+"SigninUsernameJ" : "Ahmed@gmail.com",
+"SigninPasswordJ" : "P@ssw0rd",
+"SigninAssertJ" : "Welcome to your account" ,
+
+
+"RegInsertemailJ" : "Ahmed125587889@Test.com" ,
+"RegFirstnameJ" : "Ahmed" ,
+"RegLastnameJ" : "Nasser" ,
+"RegisterPasswordJ" : "P@ssw0rd" ,
+"RegAdresscompanyJ" : "VOIS" ,
+"RegAdress1J" : "3 Masr Elgdida" ,
+"RegAdresscityJ" : "Cairo" ,
+"RegAdresspostalcodeJ" : "02222" ,
+"RegAdressAdditionalinfoJ" : "Automate the registration" ,
+"RegAdresshomephoneJ" : "263867" ,
+"RegAdressmobilephoneJ" : "011257240" ,
+"RegRefrenceadressJ" : "Wazir street" ,
+"RegistrationAssertJ" : "Welcome to your account" 
+
+,
+"CheckoutAdressInsertcommentJ" : "Automation Project for VOIS",
+"CheckoutAssertOrderJ" : "Your order on My Store is complete" ,
+
+"ProfileAssertproductJ" : "Ahmed"
+
+}
+]
